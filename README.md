@@ -6,10 +6,16 @@
 JavaScript. It has language level support for defining, extending, subclassing, instantiating and rendering dom nodes.
 
 ## Toolkits
+
 - Imbapack
 - Imbac
 
+## Articles
+
+- [An Intro to Imba FCC Blog](https://github.com/koolamusic/awesome-imba)
+
 ## Boilerplates
+
 - [Hello World Imba](https://github.com/somebee/hello-world-imba)
 
 ## Editor Plugins and IDEs
@@ -21,6 +27,7 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 * VSCode
 	* [VSCode](http://github.com/somebee/vscode-imba) - VSCode Imba Package
 
-## Example Apps
+## Real World Apps
 
 - [Scrimba](http://scrimba.com)
+- [Iceland Fish Auction Market](https://rsf.is)
