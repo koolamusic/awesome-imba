@@ -21,5 +21,6 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 * VSCode
 	* [VSCode](http://github.com/somebee/vscode-imba) - VSCode Imba Package
 
-# Example Apps
+## Example Apps
+
 - [Scrimba](http://scrimba.com)
