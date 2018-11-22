@@ -31,3 +31,14 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 
 - [Scrimba](http://scrimba.com)
 - [Iceland Fish Auction Market](https://rsf.is)
+
+
+
+---
+### Contribution
+Your contributions and suggestions are welcome anytime. Build great stuffs with Imba, Feel free to share with us ;) 
+
+---
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
