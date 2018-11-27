@@ -15,11 +15,13 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 ## Articles
 
 - [An Intro to Imba FCC Blog](https://github.com/koolamusic/awesome-imba)
+- [New JavaScript-based Web Language Challenges React ADTMag](https://adtmag.com/articles/2016/01/14/imba-web-language.aspx)
 
 ## Boilerplates
 
 - [Hello World Imba](https://github.com/somebee/hello-world-imba)
 - [Imba Todo MVC](https://github.com/somebee/todomvc-imba)
+- [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark)
 
 ## Editor Plugins and IDEs
 
