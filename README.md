@@ -2,7 +2,7 @@
 
 > A curated list of awesome Imba frameworks, libraries, software and resources
 
-[Imba](https://github.com/somebee/imba) is a new programming language for the web that compiles to performant and readable 
+[Imba](https://github.com/imba/imba) is a new programming language for the web that compiles to performant and readable 
 JavaScript. It has language level support for defining, extending, subclassing, instantiating and rendering dom nodes.
 
 ## Toolkits and Frameworks
@@ -11,6 +11,8 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 - Imbac
 - [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba 
+- [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
+processing of imba files
 
 ## Articles
 
@@ -19,7 +21,7 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 
 ## Boilerplates
 
-- [Hello World Imba](https://github.com/somebee/hello-world-imba)
+- [Hello World Imba](https://github.com/imba/hello-world-imba)
 - [Imba Todo MVC](https://github.com/somebee/todomvc-imba)
 - [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark)
 
@@ -41,7 +43,8 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 
 ---
 ### Contribution
-Your contributions and suggestions are welcome anytime. Build great stuffs with Imba, Feel free to share with us ;) 
+Your contributions and suggestions are welcome anytime. Are you building great stuffs with Imba, Feel free to share with 
+us :smile:
 
 ---
 
