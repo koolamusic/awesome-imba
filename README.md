@@ -39,7 +39,9 @@ processing of imba files
 - [Scrimba](http://scrimba.com)
 - [Iceland Fish Auction Market](https://rsf.is)
 
+## Tools
 
+- [html2imba](http://konsumer.js.org/html2imba/)
 
 ---
 ### Contribution
