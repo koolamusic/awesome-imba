@@ -41,7 +41,7 @@ processing of imba files
 
 ## Tools
 
-- [html2imba](http://konsumer.js.org/html2imba/)
+- [html2imba](http://konsumer.js.org/html2imba/) [github](https://github.com/konsumer/html2imba) - A tool to convert HTML to imba tag source.
 
 ---
 ### Contribution
