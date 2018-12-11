@@ -49,6 +49,10 @@ processing of imba files
 
 - [html2imba](http://konsumer.js.org/html2imba/) [github](https://github.com/konsumer/html2imba) - A tool to convert HTML to imba tag source.
 
+## Showcase - Built with Imba
+
+- [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn)
+
 ---
 ### Contribution
 Your contributions and suggestions are welcome anytime. Are you building great stuffs with Imba, Feel free to share with 
