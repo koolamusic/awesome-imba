@@ -19,6 +19,12 @@ processing of imba files
 - [An Intro to Imba FCC Blog](https://github.com/koolamusic/awesome-imba)
 - [New JavaScript-based Web Language Challenges React ADTMag](https://adtmag.com/articles/2016/01/14/imba-web-language.aspx)
 
+## Screencasts
+- [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM)
+- [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg)
+- [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB)
+
+
 ## Boilerplates
 
 - [Hello World Imba](https://github.com/imba/hello-world-imba)
