@@ -42,6 +42,7 @@ processing of imba files
 ## Tools
 
 - [html2imba](http://konsumer.js.org/html2imba/) [github](https://github.com/konsumer/html2imba) - A tool to convert HTML to imba tag source.
+- [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark)
 
 ## Showcase - Built with Imba
 
@@ -49,7 +50,6 @@ processing of imba files
 - [Hello World Imba](https://github.com/imba/hello-world-imba)
 - [Imba Todo MVC](https://github.com/somebee/todomvc-imba)
 - [Other Todo MVC implementation](https://github.com/shapkarin/imba-todo)
-- [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark)
 - [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048)
 - [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator) 
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) 
