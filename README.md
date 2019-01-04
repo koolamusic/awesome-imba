@@ -25,28 +25,6 @@ processing of imba files
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB)
 
 
-## Examples
-
-- [Hello World Imba](https://github.com/imba/hello-world-imba)
-- [Imba Todo MVC](https://github.com/somebee/todomvc-imba)
-- [Other Todo MVC implementation](https://github.com/shapkarin/imba-todo)
-- [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark)
-- [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048)
-- [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator) 
-- [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) 
-- [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) 
-- [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) 
-- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) 
-- [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) 
-- [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) 
-- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) 
-- [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) 
-- [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer)
-- [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn)
-- [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake)
-- [TODO List](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list)
-- [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather)
-
 ## Editor Plugins and IDEs
 
 * Atom
@@ -68,6 +46,26 @@ processing of imba files
 ## Showcase - Built with Imba
 
 - [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn)
+- [Hello World Imba](https://github.com/imba/hello-world-imba)
+- [Imba Todo MVC](https://github.com/somebee/todomvc-imba)
+- [Other Todo MVC implementation](https://github.com/shapkarin/imba-todo)
+- [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark)
+- [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048)
+- [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator) 
+- [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) 
+- [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) 
+- [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) 
+- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) 
+- [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) 
+- [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) 
+- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) 
+- [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) 
+- [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer)
+- [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn)
+- [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake)
+- [TODO List](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list)
+- [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather)
+
 
 ---
 ### Contribution
