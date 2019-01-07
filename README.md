@@ -5,6 +5,15 @@
 [Imba](https://github.com/imba/imba) is a new programming language for the web that compiles to performant and readable 
 JavaScript. It has language level support for defining, extending, subclassing, instantiating and rendering dom nodes.
 
+## Contents
+- [Toolkits and Frameworks](#toolkits-and-frameworks)
+- [Articles](#articles)
+- [Screencasts](#screencasts)
+- [Editor Plugins and IDEs](#editor-plugins-and-ides)
+- [Real World Apps](#real-world-apps)
+- [Tools](#tools)
+- [Showcase - Built with Imba](#showcase---built-with-imba)
+
 ## Toolkits and Frameworks
 
 - Imbapack
