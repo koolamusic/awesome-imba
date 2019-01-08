@@ -84,7 +84,8 @@ processing of imba files
 ### Contribution
 Your contributions and suggestions are welcome anytime. Are you building great stuffs with Imba, Feel free to share with 
 us :smile: 
-Here is an [instruction](CONTRIBUTING.md).
+
+Here is an [instruction](.github/CONTRIBUTING.md). Please also read [Code of conduct](.github/CODE_OF_CONDUCT.md).
 
 ---
 
