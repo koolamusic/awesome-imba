@@ -83,7 +83,8 @@ processing of imba files
 ---
 ### Contribution
 Your contributions and suggestions are welcome anytime. Are you building great stuffs with Imba, Feel free to share with 
-us :smile:
+us :smile: 
+Here is an [instruction](CONTRIBUTING.md).
 
 ---
 
