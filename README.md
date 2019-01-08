@@ -16,21 +16,11 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 
 ## Toolkits and Frameworks
 
-- Imbapack. Like a webpack but for imba. You can install imba globaly `npm install -g imba` or `yarn global add imba`. And then use it like:
+- [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack). The imbapack utility is a convenient wrapper around webpack. When you use imbapack you do not need to declare an imba-loader and resolveExtensions in your configs. It ships with imba package.
+ 
+- [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should rather use imbapack (see above). It also ships with imba package. 
 
-> `imbapack app.imba bundle.js` compiles the file app.imba, **and all required files** into a webpack bundle named bundle.js. This file can be included in a html page like any other js-file. See [webpack](https://webpack.github.io) for more details.
-
-> `imbapack --watch app.imba bundle.js` same as above, but recompiles whenever app.imba or any related files change.
-
-- Imbac -  The imbac utility is for compiling your scripts to js. When working on client-side projects you should rather use imbapack (see above). Call imbac without arguments to see available options. If you are not able to use imba to run your project, or you really need to precompile the code (for running on node), you can use imbac. You can install it globablly with imba package `npm install -g imba`.
-
-- Webpack loader. Imba has build in loader. Si you can install imba locally and set at config that you need that loader. The following should be sufficient in most cases:
-```js
-{
-  test: /\.imba$/,
-  loader: 'imba/loader'
-}
-```
+- [Webpack loader](https://github.com/imba/imba/blob/master/loader.js). Imba has build in loader. Si you can install imba locally and set at webpack config that you need that loader.
 
 - [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba 
@@ -78,7 +68,7 @@ processing of imba files
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) 
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) 
 - [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) 
-- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) 
+- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life)
 - [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) 
 - [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) 
 - [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) 
