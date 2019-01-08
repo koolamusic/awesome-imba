@@ -16,8 +16,22 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 
 ## Toolkits and Frameworks
 
-- Imbapack
-- Imbac
+- Imbapack. Like a webpack but for imba. You can install imba globaly `npm install -g imba` or `yarn global add imba`. And then use it like:
+
+> `imbapack app.imba bundle.js` compiles the file app.imba, **and all required files** into a webpack bundle named bundle.js. This file can be included in a html page like any other js-file. See [webpack](https://webpack.github.io) for more details.
+
+> `imbapack --watch app.imba bundle.js` same as above, but recompiles whenever app.imba or any related files change.
+
+- Imbac -  The imbac utility is for compiling your scripts to js. When working on client-side projects you should rather use imbapack (see above). Call imbac without arguments to see available options. If you are not able to use imba to run your project, or you really need to precompile the code (for running on node), you can use imbac. You can install it globablly with imba package `npm install -g imba`.
+
+- Webpack loader. Imba has build in loader. Si you can install imba locally and set at config that you need that loader. The following should be sufficient in most cases:
+```js
+{
+  test: /\.imba$/,
+  loader: 'imba/loader'
+}
+```
+
 - [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba 
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
@@ -45,7 +59,7 @@ processing of imba files
 
 ## Real World Apps
 
-- [Scrimba](http://scrimba.com)
+- [Scrimba](http://scrimba.com) - The interactive screencasting platform Scrimba.com is written in Imba, both frontend and backend
 - [Iceland Fish Auction Market](https://rsf.is)
 
 ## Tools
