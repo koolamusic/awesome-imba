@@ -11,6 +11,21 @@ Log an issue for any question or problem you might have. When in doubt, log an i
 any additional policies about what to include will be provided in the responses. Please be courteous and respectful. 
 Every participant is expected to follow theproject's Code of Conduct.
 
+# Adding something to an awesome list
+
+You can fork repository, create new branch and then creat pull request from github ui. 
+
+Otherwise you can do that more easily with next steps.
+
+You'll need a [GitHub account](https://github.com/join)!
+
+1. Access the awesome list's GitHub page. For example: https://github.com/koolamusic/awesome-imba
+2. Click on the `readme.md`
+3. Now click on the edit icon. 
+4. You can start editing the text of the file in the in-browser editor. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+5. Say why you're proposing the changes, and then click on "Propose file change".
+6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+
 # Sending Pull Requests
 
 Ensure your pull request adheres to the following guidelines:
