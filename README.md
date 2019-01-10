@@ -18,13 +18,10 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 ## Toolkits and Frameworks
 
 - [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack). The imbapack utility is a convenient wrapper around webpack. When you use imbapack you do not need to declare an imba-loader and resolveExtensions in your configs. It ships with imba package.
- 
-- [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should rather use imbapack (see above). It also ships with imba package. 
-
+- [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should rather use imbapack (see above). It also ships with imba package.
 - [Webpack loader](https://github.com/imba/imba/blob/master/loader.js). Imba has build in loader. Si you can install imba locally and set at webpack config that you need that loader.
-
 - [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba
-- [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba 
+- [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
 processing of imba files
 
