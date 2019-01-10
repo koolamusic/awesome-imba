@@ -16,8 +16,12 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 
 ## Toolkits and Frameworks
 
-- Imbapack
-- Imbac
+- [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack). The imbapack utility is a convenient wrapper around webpack. When you use imbapack you do not need to declare an imba-loader and resolveExtensions in your configs. It ships with imba package.
+ 
+- [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should rather use imbapack (see above). It also ships with imba package. 
+
+- [Webpack loader](https://github.com/imba/imba/blob/master/loader.js). Imba has build in loader. Si you can install imba locally and set at webpack config that you need that loader.
+
 - [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba 
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
@@ -45,7 +49,7 @@ processing of imba files
 
 ## Real World Apps
 
-- [Scrimba](http://scrimba.com)
+- [Scrimba](http://scrimba.com) - The interactive screencasting platform Scrimba.com is written in Imba, both frontend and backend
 - [Iceland Fish Auction Market](https://rsf.is)
 
 ## Tools
@@ -64,7 +68,7 @@ processing of imba files
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) 
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) 
 - [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) 
-- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) 
+- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life)
 - [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) 
 - [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) 
 - [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) 
@@ -79,7 +83,9 @@ processing of imba files
 ---
 ### Contribution
 Your contributions and suggestions are welcome anytime. Are you building great stuffs with Imba, Feel free to share with 
-us :smile:
+us :smile: 
+
+Here is an [instruction](.github/CONTRIBUTING.md). Please also read [Code of conduct](.github/CODE_OF_CONDUCT.md).
 
 ---
 
