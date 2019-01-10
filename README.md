@@ -6,6 +6,7 @@
 JavaScript. It has language level support for defining, extending, subclassing, instantiating and rendering dom nodes.
 
 ## Contents
+
 - [Toolkits and Frameworks](#toolkits-and-frameworks)
 - [Articles](#articles)
 - [Screencasts](#screencasts)
@@ -50,20 +51,20 @@ processing of imba files
 ## Real World Apps
 
 - [Scrimba](http://scrimba.com) - The interactive screencasting platform Scrimba.com is written in Imba, both frontend and backend
-- [Iceland Fish Auction Market](https://rsf.is)
+- [Iceland Fish Auction Market](https://rsf.is) - A website for the iceland fish market
 
 ## Tools
 
 - [html2imba](http://konsumer.js.org/html2imba/) [github](https://github.com/konsumer/html2imba) - A tool to convert HTML to imba tag source.
-- [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark)
+- [Todo MV Render Benchmark](https://github.com/somebee/todomvc-render-benchmark) - Benchmarking raw DOM reconciliation
 
 ## Showcase - Built with Imba
 
-- [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn)
-- [Hello World Imba](https://github.com/imba/hello-world-imba)
-- [Imba Todo MVC](https://github.com/somebee/todomvc-imba)
-- [Other Todo MVC implementation](https://github.com/shapkarin/imba-todo)
-- [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048)
+- [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) - Demonstration of Imba & Capacitor used to build Hacker News clone
+- [Hello World Imba](https://github.com/imba/hello-world-imba) - Barebones Imba example with instructions 
+- [Imba Todo MVC](https://github.com/somebee/todomvc-imba) -  Imba TodoMVC Example
+- [Other Todo MVC implementation](https://github.com/shapkarin/imba-todo) - TodoMVC application created by Yury Shapkarin.
+- [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048) - 2048 Game in Imba 
 - [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator) 
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) 
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) 
