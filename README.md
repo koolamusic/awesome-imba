@@ -26,7 +26,7 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 processing of imba files
 
 ## Articles
-
+- [Imba Guide](https://imba.github.io/imba-guide/)
 - [An Intro to Imba FCC Blog](https://github.com/koolamusic/awesome-imba)
 - [New JavaScript-based Web Language Challenges React ADTMag](https://adtmag.com/articles/2016/01/14/imba-web-language.aspx)
 
