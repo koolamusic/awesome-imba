@@ -24,6 +24,7 @@ JavaScript. It has language level support for defining, extending, subclassing, 
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
 processing of imba files
+- [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in imba
 
 ## Articles
 - [Imba Guide](https://imba.github.io/imba-guide/)
