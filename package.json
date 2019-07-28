@@ -1,0 +1,68 @@
+{
+  "name": "awesome-imba",
+  "version": "1.0.0",
+  "description": "A curated list of awesome Imba frameworks, libraries, software and resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  },
+  "devDependencies": {
+    "awesome-lint": "*",
+    "husky": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koolamusic/awesome-imba.git"
+  },
+  "keywords": [
+    "imba",
+    "awesome",
+    "awesome-list"
+  ],
+  "author": {
+    "name": "Andrew Miracle",
+    "url": "http://bit.ly/2EnR6Gf"
+  },
+  "contributors": [
+    {
+      "name": "Yury Shapkarin",
+      "email": "yury@shapkarin.me",
+      "url": "https://shapkarin.me"
+    },
+    {
+      "name": "David Konsumer",
+      "email": "konsumer@jetboystudio.com",
+      "url": "https://keybase.io/konsumer"
+    },
+    {
+      "name": "At Indo",
+      "email": "emailta.indo@gmail.com"
+    },
+    {
+      "name": "Sindre Aarsaether",
+      "email": "sindre@identu.no",
+      "url": "http://imba.io"
+    },
+    {
+      "name": "Nathaniel Johnson",
+      "email": "nathanjohnson320@gmail.com",
+      "url": "https://b1001.herokuapp.com"
+    },
+    {
+      "name": "activestylus"
+    },
+    {
+      "name": "SamirH"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koolamusic/awesome-imba/issues"
+  },
+  "homepage": "https://github.com/koolamusic/awesome-imba#readme"
+}
