@@ -76,10 +76,10 @@ processing of imba files.
 #### Apps/Websites built with Imba
 
 - [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) - Demonstration of Imba & Capacitor used to build Hacker News clone.
-- [Hello World Imba](https://github.com/imba/hello-world-imba) - Barebones Imba example with instructions .
+- [Hello World Imba](https://github.com/imba/hello-world-imba) - Barebones Imba example with instructions.
 - [Imba Todo MVC](https://github.com/somebee/todomvc-imba) -  Imba TodoMVC Example.
-- [Other Todo MVC implementation](https://github.com/shapkarin/imba-todo) - TodoMVC application created by Yury Shapkarin.
-- [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048) - 2048 Game in Imba .
+- [Other Todo MVC](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) rules.
+- [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048) - 2048 Game in Imba.
 - [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator)  - Calculator in Imba.
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) - Memory game in Imba.
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) - A cool interaction website.
