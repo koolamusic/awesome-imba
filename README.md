@@ -94,7 +94,7 @@ processing of Imba files.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - Snake game.
 - [TODO List](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list) - Simple todo list.
 - [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Simple weather app.
-- [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - Simple 2D shooter game.
+- [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - Simple 2D shooter game.
 
 ## Contribution
 Your contributions and suggestions are welcome anytime. Are you building great stuff with Imba? Feel free to share with us! :blush:
