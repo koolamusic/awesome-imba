@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="http://imba.io" align="center" target="_blank">
-		<img width="400" src="./icon/imba-awesome-logo.svg">
+		<img width="400" src="./icon/imba-awesome-logo.min.svg">
 	</a>
 </p>
 
