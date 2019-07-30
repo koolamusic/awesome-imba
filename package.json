@@ -2,7 +2,6 @@
   "name": "awesome-imba",
   "version": "1.0.0",
   "description": "A curated list of awesome Imba frameworks, libraries, software and resources",
-  "main": "index.js",
   "scripts": {
     "test": "awesome-lint",
     "logo": "svgo icon/imba-awesome-logo.svg -o icon/imba-awesome-logo.min.svg"
@@ -24,7 +23,10 @@
   "keywords": [
     "imba",
     "awesome",
-    "awesome-list"
+    "awesome-list",
+    "javascript",
+    "awesome-imba",
+    "awesomeness"
   ],
   "author": {
     "name": "Andrew Miracle",
