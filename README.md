@@ -42,7 +42,7 @@
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
 processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
-- [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect. Inspired by `create-reat-app` and `vue-cli`.
+- [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect. Inspired by `create-react-app` and `vue-cli`.
 
 #### Editor Plugins and IDEs
 
