@@ -7,12 +7,13 @@
   },
   "scripts": {
     "test": "awesome-lint",
+    "check-branch": "node scripts/check-branch-name.js",
     "logo": "svgo icon/imba-awesome-logo.svg -o icon/imba-awesome-logo.min.svg"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "node scripts/check-branch-name.js",
-      "pre-push": "npm test"
+      "pre-commit": "npm run check-branch",
+      "pre-push": "npm test && npm run check-branch"
     }
   },
   "devDependencies": {
