@@ -1,7 +1,6 @@
 // TODO: migrate to Imba, add colors and spinner
 const { sync: getBranchSync } = require('git-branch');
 
-throw new Error('TEST');
 const branch = getBranchSync();
 
 if(branch === 'master'){
