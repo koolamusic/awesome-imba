@@ -11,7 +11,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "npm test && node scripts/pre-push.js"
+      "pre-commit": "node scripts/pre-push.js",
+      "pre-push": "npm test"
     }
   },
   "devDependencies": {
