@@ -2,18 +2,23 @@
   "name": "awesome-imba",
   "version": "1.0.0",
   "description": "A curated list of awesome Imba frameworks, libraries, software and resources",
+  "engines": {
+    "node": ">=8"
+  },
   "scripts": {
     "test": "awesome-lint",
     "logo": "svgo icon/imba-awesome-logo.svg -o icon/imba-awesome-logo.min.svg"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm test"
+      "pre-commit": "npm test && node scripts/pre-push.js"
     }
   },
   "devDependencies": {
     "awesome-lint": "*",
+    "git-branch": "^2.0.1",
     "husky": "^3.0.1",
+    "pretty-error": "^2.1.1",
     "svgo": "^1.3.0"
   },
   "repository": {
