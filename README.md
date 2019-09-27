@@ -1,5 +1,5 @@
 <p align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 	<a href="http://imba.io" align="center" target="_blank">
 		<img width="400" src="./icon/imba-awesome-logo.min.svg">
 	</a>
@@ -116,6 +116,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://shapkarin.me"><img src="https://avatars1.githubusercontent.com/u/1463086?v=4" width="100px;" alt="Yury Shapkarin"/><br /><sub><b>Yury Shapkarin</b></sub></a><br /><a href="#infra-shapkarin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Tests">⚠️</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Code">💻</a></td>
     <td align="center"><a href="http://bit.ly/2EnR6Gf"><img src="https://avatars3.githubusercontent.com/u/8960757?v=4" width="100px;" alt="Andrew Miracle"/><br /><sub><b>Andrew Miracle</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=koolamusic" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=koolamusic" title="Documentation">📖</a> <a href="#review-koolamusic" title="Reviewed Pull Requests">👀</a> <a href="#tool-koolamusic" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://keybase.io/konsumer"><img src="https://avatars1.githubusercontent.com/u/83857?v=4" width="100px;" alt="David Konsumer"/><br /><sub><b>David Konsumer</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=konsumer" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=konsumer" title="Documentation">📖</a></td>
   </tr>
 </table>
 
