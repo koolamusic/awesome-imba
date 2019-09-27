@@ -1,13 +1,12 @@
-
-# Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-> A curated list of awesome Imba frameworks, libraries, software and resources<p align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)]
+<p align="center">
 	<a href="http://imba.io" align="center" target="_blank">
 		<img width="400" src="./icon/imba-awesome-logo.min.svg">
 	</a>
 </p>
 
+# Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+
+> A curated list of awesome Imba frameworks, libraries, software and resources
 
 
 ## Contents
