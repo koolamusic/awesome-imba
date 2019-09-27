@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "shapkarin",
+      "name": "Yury Shapkarin",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1463086?v=4",
+      "profile": "http://shapkarin.me",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "awesome-imba",
+  "projectOwner": "koolamusic",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
