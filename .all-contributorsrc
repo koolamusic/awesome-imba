@@ -27,6 +27,16 @@
         "review",
         "tool"
       ]
+    },
+    {
+      "login": "athif23",
+      "name": "At Indo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15215827?v=4",
+      "profile": "https://github.com/athif23",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
