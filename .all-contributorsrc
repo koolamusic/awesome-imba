@@ -27,6 +27,15 @@
         "review",
         "tool"
       ]
+    },
+    {
+      "login": "nathanjohnson320",
+      "name": "Nathaniel Johnson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1680341?v=4",
+      "profile": "https://b1001.herokuapp.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
