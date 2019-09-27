@@ -6,7 +6,7 @@
 
 
 
-# Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+# Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![GitHub contributors](https://img.shields.io/github/contributors/koolamusic/awesome-imba?color=orange&style=flat-square)
 
 > A curated list of awesome Imba frameworks, libraries, software and resources
 
@@ -26,6 +26,7 @@
 	- [Tools](#tools)
 	- [Apps/Websites built with Imba](#appswebsites-built-with-imba)
 - [Contribution](#contribution)
+- [Contributors](#contributors)
 
 ## Resources
 
@@ -105,10 +106,7 @@ Your contributions and suggestions are welcome anytime. Are you building great s
 
 Here are [instructions](./CONTRIBUTING.md). Please read the [Code of Conduct](.github/CODE_OF_CONDUCT.md) as well.
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -129,3 +127,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+See see [LICENSE.md](LICENSE.md)
