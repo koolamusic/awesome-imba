@@ -1,6 +1,5 @@
-
-<p align="center">
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)]
+<p align="center">
 	<a href="http://imba.io" align="center" target="_blank">
 		<img width="400" src="./icon/imba-awesome-logo.min.svg">
 	</a>
