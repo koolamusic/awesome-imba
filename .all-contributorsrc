@@ -29,6 +29,16 @@
       ]
     },
     {
+      "login": "nathanjohnson320",
+      "name": "Nathaniel Johnson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1680341?v=4",
+      "profile": "https://b1001.herokuapp.com/",
+       "contributions": [
+        "doc",
+        "example"
+        ]
+    },
+    {  
       "login": "somebee",
       "name": "Sindre Aarsaether",
       "avatar_url": "https://avatars2.githubusercontent.com/u/8467?v=4",
