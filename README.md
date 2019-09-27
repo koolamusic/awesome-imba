@@ -1,4 +1,5 @@
 <p align="center">
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 	<a href="http://imba.io" align="center" target="_blank">
 		<img width="400" src="./icon/imba-awesome-logo.min.svg">
 	</a>
@@ -104,3 +105,19 @@ Here are [instructions](./CONTRIBUTING.md). Please read the [Code of Conduct](.g
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://shapkarin.me"><img src="https://avatars1.githubusercontent.com/u/1463086?v=4" width="100px;" alt="Yury Shapkarin"/><br /><sub><b>Yury Shapkarin</b></sub></a><br /><a href="#infra-shapkarin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Tests">⚠️</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
