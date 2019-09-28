@@ -114,7 +114,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="http://shapkarin.me"><img src="https://avatars1.githubusercontent.com/u/1463086?v=4" width="100px;" alt="Yury Shapkarin"/><br /><sub><b>Yury Shapkarin</b></sub></a><br /><a href="#infra-shapkarin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Tests">⚠️</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Code">💻</a></td>
+    <td align="center"><a href="http://shapkarin.me"><img src="https://avatars1.githubusercontent.com/u/1463086?v=4" width="100px;" alt="Yury Shapkarin"/><br /><sub><b>Yury Shapkarin</b></sub></a><br /><a href="#infra-shapkarin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Tests">⚠️</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Code">💻</a> <a href="#example-shapkarin" title="Examples">💡</a></td>
   </tr>
 </table>
 
