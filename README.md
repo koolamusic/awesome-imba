@@ -22,7 +22,7 @@
 - [External Resources](#external-resources)
 	- [Articles](#articles)
 	- [Screencasts](#screencasts)
-- [Showcase - Built with Imba](#showcase---built-with-imba)
+- [Built with Imba](#built-with-imba)
 	- [Real World Apps](#real-world-apps)
 	- [Tools](#tools)
 	- [Apps/Websites built with Imba](#appswebsites-built-with-imba)
@@ -75,7 +75,7 @@ processing of Imba files.
 - [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how `imba-router` works in Imba.
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - Learn how to create an app faster and easier with Imba.
 
-## Showcase - Built with Imba
+## Built with Imba
 
 #### Real World Apps
 
