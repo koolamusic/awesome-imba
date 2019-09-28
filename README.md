@@ -16,6 +16,7 @@
 
 - [Resources](#resources)
 	- [Official Resources](#official-resources)
+	- [Core tools](#core-tools)
 	- [Toolkits and Frameworks](#toolkits-and-frameworks)
 	- [Editor Plugins and IDEs](#editor-plugins-and-ides)
 - [External Resources](#external-resources)
@@ -32,21 +33,28 @@
 
 #### Official Resources
 
-- [Official Guide](http://imba.io)
+- [Website](http://imba.io)
+- [Guide](http://imba.io/guides/essentials/introduction)
+- [Docs](http://imba.io/docs)
+- [Gitter](https://gitter.im/somebee/imba)
 - [Imba more depth Guide](https://imba.github.io/imba-guide/)
 - [GitHub Repo](https://github.com/imba/imba)
+- [GitHub Organization](https://github.com/imba)
+
+#### Core tools
+
+- [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) - The imbapack utility is a convenient wrapper around webpack. When you use Imbapack you do not need to declare an imba-loader and resolveExtensions in your configs. It ships with Imba package.
+- [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should use [imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) instead. It also ships with imba package.
+- [Webpack loader](https://github.com/imba/imba/blob/master/loader.js) - Imba's build-in loader. You can install Imba locally and in the webpack config you can set it to use that loader.
 
 #### Toolkits and Frameworks
 
-- [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) - The `imbapack` utility is a convenient wrapper around webpack. When you use Imbapack you do not need to declare an `imba-loader` and resolveExtensions in your configs. It ships with Imba package.
-- [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The `imbac` utility is for compiling your scripts to js. When working on client-side projects you should use [imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) instead. It also ships with `imba` package.
-- [Webpack loader](https://github.com/imba/imba/blob/master/loader.js) - Imba's build-in loader. You can install Imba locally and in the webpack config you can set it to use that loader.
 - [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba.
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba.
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
 processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
-- [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect. Inspired by `create-react-app` and `vue-cli`.
+- [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect. Inspired by create-react-app and vue-cli.
 
 #### Editor Plugins and IDEs
 
@@ -71,7 +79,7 @@ processing of Imba files.
 #### Real World Apps
 
 - [Scrimba](http://scrimba.com) - The interactive screencasting platform Scrimba.com is written in Imba, both frontend and backend.
-- [Iceland Fish Auction Market](https://rsf.is) - A website for the iceland fish market.
+- [Iceland Fish Auction Market](https://rsf.is) - A website for the Iceland fish market.
 - [GitSpeak](https://gitspeak.com) - A project management tool for developers.
 
 #### Tools
