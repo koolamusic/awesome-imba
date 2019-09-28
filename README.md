@@ -34,7 +34,7 @@
 #### Official Resources
 
 - [Website](http://imba.io)
-- [Guide](http://imba.io/guides/essentials/introduction)
+- [Guide](http://imba.io/guides)
 - [Docs](http://imba.io/docs)
 - [Gitter](https://gitter.im/somebee/imba)
 - [Imba more depth Guide](https://imba.github.io/imba-guide/)
