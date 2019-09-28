@@ -123,6 +123,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://keybase.io/konsumer"><img src="https://avatars1.githubusercontent.com/u/83857?v=4" width="100px;" alt="David Konsumer"/><br /><sub><b>David Konsumer</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=konsumer" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=konsumer" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/athif23"><img src="https://avatars3.githubusercontent.com/u/15215827?v=4" width="100px;" alt="At Indo"/><br /><sub><b>At Indo</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=athif23" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=athif23" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SamirHodzic"><img src="https://avatars0.githubusercontent.com/u/10077663?v=4" width="100px;" alt="SamirH"/><br /><sub><b>SamirH</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=SamirHodzic" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=SamirHodzic" title="Documentation">📖</a> <a href="#example-SamirHodzic" title="Examples">💡</a></td>
+  </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
