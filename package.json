@@ -4,7 +4,7 @@
   "description": "A curated list of awesome Imba frameworks, libraries, software and resources",
   "scripts": {
     "test": "awesome-lint",
-    "logo": "svgo icon/imba-awesome-logo.svg -o icon/imba-awesome-logo.min.svg"
+    "logo": "svgo logo/imba-awesome-logo.svg -o logo/imba-awesome-logo.min.svg"
   },
   "husky": {
     "hooks": {
