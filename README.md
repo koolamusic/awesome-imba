@@ -1,13 +1,15 @@
 <p align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 	<a href="http://imba.io" align="center" target="_blank">
 		<img width="400" src="./icon/imba-awesome-logo.min.svg">
 	</a>
 </p>
 
-# Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+
+# Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub contributors](https://img.shields.io/github/contributors/koolamusic/awesome-imba?color=orange&style=flat-square)](#contributors)
 
 > A curated list of awesome Imba frameworks, libraries, software and resources
+
 
 
 ## Contents
@@ -24,6 +26,7 @@
 	- [Tools](#tools)
 	- [Apps/Websites built with Imba](#appswebsites-built-with-imba)
 - [Contribution](#contribution)
+- [Contributors](#contributors)
 
 ## Resources
 
@@ -103,10 +106,7 @@ Your contributions and suggestions are welcome anytime. Are you building great s
 
 Here are [instructions](./CONTRIBUTING.md). Please read the [Code of Conduct](.github/CODE_OF_CONDUCT.md) as well.
 
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -115,9 +115,20 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://shapkarin.me"><img src="https://avatars1.githubusercontent.com/u/1463086?v=4" width="100px;" alt="Yury Shapkarin"/><br /><sub><b>Yury Shapkarin</b></sub></a><br /><a href="#infra-shapkarin" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Tests">⚠️</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=shapkarin" title="Code">💻</a> <a href="#example-shapkarin" title="Examples">💡</a></td>
+    <td align="center"><a href="http://bit.ly/2EnR6Gf"><img src="https://avatars3.githubusercontent.com/u/8960757?v=4" width="100px;" alt="Andrew Miracle"/><br /><sub><b>Andrew Miracle</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=koolamusic" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=koolamusic" title="Documentation">📖</a> <a href="#review-koolamusic" title="Reviewed Pull Requests">👀</a> <a href="#tool-koolamusic" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/activestylus"><img src="https://avatars0.githubusercontent.com/u/285?v=4" width="100px;" alt="activestylus"/><br /><sub><b>activestylus</b></sub></a><br /><a href="#example-activestylus" title="Examples">💡</a></td>
+    <td align="center"><a href="https://b1001.herokuapp.com/"><img src="https://avatars3.githubusercontent.com/u/1680341?v=4" width="100px;" alt="Nathaniel Johnson"/><br /><sub><b>Nathaniel Johnson</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=nathanjohnson320" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://imba.io"><img src="https://avatars2.githubusercontent.com/u/8467?v=4" width="100px;" alt="Sindre Aarsaether"/><br /><sub><b>Sindre Aarsaether</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=somebee" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=somebee" title="Documentation">📖</a> <a href="#example-somebee" title="Examples">💡</a></td>
+    <td align="center"><a href="https://keybase.io/konsumer"><img src="https://avatars1.githubusercontent.com/u/83857?v=4" width="100px;" alt="David Konsumer"/><br /><sub><b>David Konsumer</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=konsumer" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=konsumer" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/athif23"><img src="https://avatars3.githubusercontent.com/u/15215827?v=4" width="100px;" alt="At Indo"/><br /><sub><b>At Indo</b></sub></a><br /><a href="https://github.com/koolamusic/awesome-imba/commits?author=athif23" title="Code">💻</a> <a href="https://github.com/koolamusic/awesome-imba/commits?author=athif23" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+See [LICENSE.md](LICENSE.md)

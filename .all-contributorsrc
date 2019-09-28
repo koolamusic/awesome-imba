@@ -16,6 +16,68 @@
         "code",
         "example"
       ]
+    },
+    {
+      "login": "koolamusic",
+      "name": "Andrew Miracle",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8960757?v=4",
+      "profile": "http://bit.ly/2EnR6Gf",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "tool"
+      ]
+    },
+    {
+      "login": "activestylus",
+      "name": "activestylus",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/285?v=4",
+      "profile": "https://github.com/activestylus",
+      "contributions": [
+        "example"
+        ]
+   },
+   {
+      "login": "nathanjohnson320",
+      "name": "Nathaniel Johnson",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1680341?v=4",
+      "profile": "https://b1001.herokuapp.com/",
+       "contributions": [
+        "doc",
+        "example"
+        ]
+    },
+    {  
+      "login": "somebee",
+      "name": "Sindre Aarsaether",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8467?v=4",
+      "profile": "http://imba.io",
+      "contributions": [
+        "code",
+        "doc",
+        "example"
+        ]
+    },
+    {
+      "login": "konsumer",
+      "name": "David Konsumer",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/83857?v=4",
+      "profile": "https://keybase.io/konsumer",
+       "contributions": [
+        "code",
+        "doc"
+      ]
+     },
+     {
+      "login": "athif23",
+      "name": "At Indo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/15215827?v=4",
+      "profile": "https://github.com/athif23",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
