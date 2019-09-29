@@ -25,7 +25,7 @@
 - [Built with Imba](#built-with-imba)
 	- [Real World Apps](#real-world-apps)
 	- [Tools](#tools)
-	- [Apps/Websites built with Imba](#appswebsites-built-with-imba)
+	- [Apps/Websites](#appswebsites)
 - [Contribution](#contribution)
 - [Contributors](#contributors)
 
@@ -80,14 +80,14 @@ processing of Imba files.
 #### Real World Apps
 
 - [Scrimba](http://scrimba.com) - The interactive screencasting platform Scrimba.com is written in Imba, both frontend and backend.
-- [Iceland Fish Auction Market](https://rsf.is) - A website for the Iceland fish market.
+- [Iceland Fish Auction Market](https://rsf.is) - A website for the iceland fish market.
 - [GitSpeak](https://gitspeak.com) - A project management tool for developers.
 
 #### Tools
 
 - [html2imba](http://konsumer.js.org/html2imba/) - [GitHub](https://github.com/konsumer/html2imba) - A tool to convert HTML to Imba tag source.
 
-#### Apps/Websites built with Imba
+#### Apps/Websites
 
 - [Imba Todo MVC](https://github.com/somebee/todomvc-imba) -  Imba TodoMVC Example.
 - [Other Todo MVC](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) rules.
