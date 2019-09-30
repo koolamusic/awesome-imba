@@ -19,7 +19,7 @@
 	- [Core tools](#core-tools)
 	- [Toolkits and Frameworks](#toolkits-and-frameworks)
 	- [Editor Plugins and IDEs](#editor-plugins-and-ides)
-	- [Tutorials and Guides](#tutorials-and-guides)
+	- [Guides and Tutorials](#guides-and-tutorials)
 - [External Resources](#external-resources)
 	- [Articles](#articles)
 - [Built with Imba](#built-with-imba)
