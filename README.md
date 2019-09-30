@@ -19,6 +19,7 @@
 	- [Core tools](#core-tools)
 	- [Toolkits and Frameworks](#toolkits-and-frameworks)
 	- [Editor Plugins and IDEs](#editor-plugins-and-ides)
+	- [Tutorials and Guides](#tutorials-and-guides)
 - [External Resources](#external-resources)
 	- [Articles](#articles)
 	- [Screencasts](#screencasts)
@@ -34,10 +35,8 @@
 #### Official Resources
 
 - [Website](http://imba.io)
-- [Guide](http://imba.io/guides)
 - [Docs](http://imba.io/docs)
 - [Gitter](https://gitter.im/somebee/imba)
-- [Imba more depth Guide](https://imba.github.io/imba-guide/)
 - [GitHub Repo](https://github.com/imba/imba)
 - [GitHub Organization](https://github.com/imba)
 
@@ -50,7 +49,7 @@
 #### Toolkits and Frameworks
 
 - [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect. Inspired by create-react-app and vue-cli.
-- [Hello World Imba](https://github.com/imba/hello-world-imba) - Barebones Imba example with instructions.
+- [Hello World Imba](https://github.com/imba/hello-world-imba) - Official Imba "Hello World" example. Also you can use it as GitHub template.
 - [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba.
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba.
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
@@ -62,6 +61,12 @@ processing of Imba files.
 - [Atom](http://github.com/somebee/language-imba) - Imba plugin for Atom.
 - [Sublime Text](http://github.com/somebee/sublime-imba) - Imba plugin for Sublime.
 - [VSCode](http://github.com/somebee/vscode-imba) - Imba plugin for VSCode.
+
+#### Guides and Tutorials
+- [Official Guide](http://imba.io/guides) - Official Imba Guide.
+- [Imba more depth Guide](https://imba.github.io/imba-guide/) - Imba more depth Guide.
+- [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - This is a detailed tutorial documenting the steps taken to build the traditional [Hello World app](https://github.com/jiggneshhgohel/hello-world-imba).
+
 
 ## External Resources
 
@@ -85,7 +90,7 @@ processing of Imba files.
 
 #### Tools
 
-- [html2imba](http://konsumer.js.org/html2imba/) - [GitHub](https://github.com/konsumer/html2imba) - A tool to convert HTML to Imba tag source.
+- [html2imba](https://github.com/konsumer/html2imba) - [view online](http://konsumer.js.org/html2imba/) - A tool to convert HTML to Imba tag source.
 
 #### Apps/Websites
 
