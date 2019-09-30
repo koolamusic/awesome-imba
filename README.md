@@ -72,7 +72,7 @@ processing of Imba files.
 
 #### Screencasts
 - [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - Learn why Imba is fast, how it works and then play around with it.
-- [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how `imba-router` works in Imba.
+- [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how imba-router works in Imba.
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - Learn how to create an app faster and easier with Imba.
 
 ## Built with Imba
