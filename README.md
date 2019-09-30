@@ -22,7 +22,6 @@
 	- [Tutorials and Guides](#tutorials-and-guides)
 - [External Resources](#external-resources)
 	- [Articles](#articles)
-	- [Screencasts](#screencasts)
 - [Built with Imba](#built-with-imba)
 	- [Real World Apps](#real-world-apps)
 	- [Tools](#tools)
@@ -66,7 +65,9 @@ processing of Imba files.
 - [Official Guide](http://imba.io/guides) - Official Imba Guide.
 - [Imba more depth Guide](https://imba.github.io/imba-guide/) - Imba more depth Guide.
 - [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - This is a detailed tutorial documenting the steps taken to build the traditional [Hello World app](https://github.com/jiggneshhgohel/hello-world-imba).
-
+- [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - Learn why Imba is fast, how it works and then play around with it.
+- [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how imba-router works in Imba.
+- [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - Learn how to create an app faster and easier with Imba.
 
 ## External Resources
 
@@ -74,11 +75,6 @@ processing of Imba files.
 
 - [An Intro to Imba: the JavaScript-compatible language for lightning fast DOM updates - freeCodeCamp](https://medium.freecodecamp.org/introduction-to-imba-the-alternative-to-javascript-e2aa1e3d1769)
 - [New JavaScript-based Web Language Challenges React - ADTMag](https://adtmag.com/articles/2016/01/14/imba-web-language.aspx)
-
-#### Screencasts
-- [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - Learn why Imba is fast, how it works and then play around with it.
-- [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how imba-router works in Imba.
-- [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - Learn how to create an app faster and easier with Imba.
 
 ## Built with Imba
 
