@@ -20,7 +20,6 @@
 	- [Toolkits and Frameworks](#toolkits-and-frameworks)
 	- [Editor Plugins and IDEs](#editor-plugins-and-ides)
 	- [Guides and Tutorials](#guides-and-tutorials)
-- [External Resources](#external-resources)
 	- [Articles](#articles)
 - [Built with Imba](#built-with-imba)
 	- [Real World Apps](#real-world-apps)
@@ -68,8 +67,6 @@ processing of Imba files.
 - [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - Learn why Imba is fast, how it works and then play around with it.
 - [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how imba-router works in Imba.
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - Learn how to create an app faster and easier with Imba.
-
-## External Resources
 
 #### Articles
 
