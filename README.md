@@ -61,8 +61,8 @@ processing of Imba files.
 - [VSCode](http://github.com/somebee/vscode-imba) - Imba plugin for VSCode.
 
 #### Guides and Tutorials
-- [Official Guide](http://imba.io/guides) - Official Imba Guide.
-- [Imba more depth Guide](https://imba.github.io/imba-guide/) - Imba more depth Guide.
+- [Official Guide](http://imba.io/guides) - Official Imba guide.
+- [Imba more depth Guide](https://imba.github.io/imba-guide/) - Imba more depth guide.
 - [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - This is a detailed tutorial documenting the steps taken to build the "Hello World" app with Node.js, Imba and Webpack.
 - [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - Learn why Imba is fast, how it works and then play around with it.
 - [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how imba-router works in Imba.
