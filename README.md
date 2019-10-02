@@ -84,6 +84,9 @@ processing of Imba files.
 #### Tools
 
 - [html2imba](https://github.com/konsumer/html2imba) - [view online](http://konsumer.js.org/html2imba/) - A tool to convert HTML to Imba tag source.
+- [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) - JSON prettier.
+- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - Decoder for Monoalphabetic Chiper.
+- [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer) - Regex tool.
 
 #### Apps/Websites
 
@@ -97,11 +100,8 @@ processing of Imba files.
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) - A cool interaction website.
 - [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) - Fifteen Puzzle.
 - [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - Game of Life.
-- [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) - JSON prettier.
 - [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) - Cool matrix-like rain animation.
-- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - Decoder for Monoalphabetic Chiper.
 - [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - An app that generates random quotes.
-- [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer) - Regex tool.
 - [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn) - ROT-N game.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - Snake game.
 - [TODO List](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list) - Simple todo list.
