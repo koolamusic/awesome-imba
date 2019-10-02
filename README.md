@@ -48,7 +48,7 @@
 
 - [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect. Inspired by create-react-app and vue-cli.
 - [Hello World Imba](https://github.com/imba/hello-world-imba) - Official Imba "Hello World" example. Also you can use it as GitHub template.
-- [Imba Router](https://github.com/somebee/imba-router) - An Experimental Router for Imba.
+- [Imba Router](https://github.com/somebee/imba-router) - Experimental router for Imba.
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba.
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
 processing of Imba files.
@@ -85,7 +85,7 @@ processing of Imba files.
 
 - [html2imba](https://github.com/konsumer/html2imba) - [view online](http://konsumer.js.org/html2imba/) - A tool to convert HTML to Imba tag source.
 - [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) - JSON prettier.
-- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - Decoder for Monoalphabetic Chiper.
+- [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - Decoder for monoalphabetic cipher.
 - [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer) - Regex tool.
 
 #### Apps/Websites
@@ -98,10 +98,10 @@ processing of Imba files.
 - [Calculator](https://github.com/taw/imba-calculator) - [view online](https://taw.github.io/imba-calculator)  - Calculator.
 - [Emoji Memory Game](https://github.com/taw/imba-emoji-memory) - [view online](https://taw.github.io/imba-emoji-memory) - Memory game.
 - [Eyes](https://github.com/taw/imba-eyes) - [view online](https://taw.github.io/imba-eyes) - A cool interaction website.
-- [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) - Fifteen Puzzle.
-- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - Game of Life.
+- [Fifteen Puzzle](https://github.com/taw/imba-fifteen) - [view online](https://taw.github.io/imba-fifteen) - Fifteen puzzle.
+- [Game of Life](https://github.com/taw/imba-game-of-life) - [view online](https://taw.github.io/imba-game-of-life) - Game of life.
 - [Matrix Rain](https://github.com/taw/imba-matrix-rain) - [view online](https://taw.github.io/imba-matrix-rain) - Cool matrix-like rain animation.
-- [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - An app that generates random quotes.
+- [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - App that generates random quotes.
 - [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn) - ROT-N game.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - Snake game.
 - [TODO List](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list) - Simple todo list.
