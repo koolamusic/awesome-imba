@@ -16,7 +16,7 @@
 
 - [Resources](#resources)
 	- [Official Resources](#official-resources)
-	- [Core tools](#core-tools)
+	- [Core Tools](#core-tools)
 	- [Toolkits and Frameworks](#toolkits-and-frameworks)
 	- [Editor Plugins and IDEs](#editor-plugins-and-ides)
 	- [Guides and Tutorials](#guides-and-tutorials)
@@ -38,7 +38,7 @@
 - [GitHub Repo](https://github.com/imba/imba)
 - [GitHub Organization](https://github.com/imba)
 
-#### Core tools
+#### Core Tools
 
 - [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) - The imbapack utility is a convenient wrapper around webpack. When you use Imbapack you do not need to declare an imba-loader and resolveExtensions in your configs. It ships with Imba package.
 - [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should use [imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) instead. It also ships with imba package.
