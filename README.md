@@ -106,7 +106,7 @@ processing of Imba files.
 - [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn) - ROT-N game.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - Snake game.
 - [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
-- [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zoomby shooter game.
+- [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zombie shooter game.
 
 
 ## Contribution
