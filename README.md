@@ -42,7 +42,7 @@
 
 - [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) - The imbapack utility is a convenient wrapper around webpack. When you use Imbapack you do not need to declare an imba-loader and resolveExtensions in your configs. It ships with Imba package.
 - [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should use [imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) instead. It also ships with imba package.
-- [Webpack loader](https://github.com/imba/imba/blob/master/loader.js) - Imba's build-in loader. You can install Imba locally and in the webpack config you can set it to use that loader.
+- [Webpack Loader](https://github.com/imba/imba/blob/master/loader.js) - Pre-installed loader for Imba. You can install Imba locally and next you can config webpack to use that loader.
 
 #### Toolkits and Frameworks
 
