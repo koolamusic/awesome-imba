@@ -92,6 +92,7 @@ processing of Imba files.
 
 - [Imba Todo MVC](https://github.com/somebee/todomvc-imba) -  Imba TodoMVC Example.
 - [Other Todo MVC](https://github.com/shapkarin/imba-todo) - [view online](https://shapkarin.github.io/imba-todo/) - TodoMVC implementation following [tastejs/todomvc](https://github.com/tastejs/todomvc) rules.
+- [Simple Todo](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list) - More basic todo list app.
 - [Imba Realworld App](https://github.com/cartonalexandre/imba-realworld-example-app) - [view online](https://imba-realworld-example-app.netlify.com/) - Project was created to demonstrate a fully fledged fullstack application that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 - [Imba HackerNews Clone](https://github.com/SamirHodzic/imba-capacitor-hn) - Demonstration of Imba & Capacitor used to build Hacker News clone.
 - [2048 Game](https://github.com/taw/imba-2048) - [view online](https://taw.github.io/imba-2048) - 2048 Game.
@@ -104,9 +105,8 @@ processing of Imba files.
 - [Quote Machine](https://github.com/taw/imba-quote-machine) - [view online](https://taw.github.io/imba-quote-machine) - App that generates random quotes.
 - [ROT-N](https://github.com/taw/imba-rotn) - [view online](https://taw.github.io/imba-rotn) - ROT-N game.
 - [Snake Game](https://github.com/taw/imba-snake) - [view online](https://taw.github.io/imba-snake) - Snake game.
-- [TODO List](https://github.com/taw/imba-todo-list) - [view online](https://taw.github.io/imba-todo-list) - Simple todo list.
-- [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Simple weather app.
-- [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - Simple 2D shooter game.
+- [Weather App](https://github.com/taw/imba-weather) - [view online](https://taw.github.io/imba-weather) - Weather app.
+- [Top Down Shooter](https://github.com/CassianoSF/imba-top-down-shooter) - [view online](https://cassianosf.github.io/imba-top-down-shooter/dist/index.html) - 2D zoomby shooter game.
 
 
 ## Contribution
