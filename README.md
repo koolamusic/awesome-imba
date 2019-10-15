@@ -10,7 +10,7 @@
 
 > A curated list of awesome Imba frameworks, libraries, software and resources
 
-
+Imba is a programming language inspired by Ruby and Python and compiles to performant JavaScript.
 
 ## Contents
 
