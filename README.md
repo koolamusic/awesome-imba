@@ -32,8 +32,8 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 
 #### Official Resources
 
-- [Website](http://imba.io)
-- [Docs](http://imba.io/docs)
+- [Website](https://imba.io)
+- [Docs](https://imba.io/docs)
 - [Gitter](https://gitter.im/somebee/imba)
 - [GitHub Repo](https://github.com/imba/imba)
 - [GitHub Organization](https://github.com/imba)
@@ -59,7 +59,7 @@ processing of Imba files.
 
 #### Guides and Tutorials
 
-- [Official Guide](http://imba.io/guides) - Official Imba guide.
+- [Official Guide](https://imba.io/guides) - Official Imba guide.
 - [Imba more depth Guide](https://imba.github.io/imba-guide/) - Imba more depth guide.
 - [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - This is a detailed tutorial documenting the steps taken to build the "Hello World" app with Node.js, Imba and Webpack.
 - [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - Learn why Imba is fast, how it works and then play around with it.
