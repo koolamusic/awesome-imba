@@ -41,7 +41,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 
 #### Toolkits and Frameworks
 
-- [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect. Inspired by create-react-app and vue-cli.
+- [Start Imba](https://github.com/athif23/start-imba) - Tool to bootstrap an Imba protect that was inspired by create-react-app and vue-cli.
 - [Hello World Imba](https://github.com/imba/hello-world-imba) - Official Imba "Hello World" example. Also you can use it as GitHub template.
 - [Imba Router](https://github.com/somebee/imba-router) - Experimental router for Imba.
 - [UXA](https://github.com/somebee/uxa) - Experimental framework for Imba.
