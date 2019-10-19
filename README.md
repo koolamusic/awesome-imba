@@ -5,18 +5,17 @@
 </p>
 
 
-
 # Awesome Imba [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub contributors](https://img.shields.io/github/contributors/koolamusic/awesome-imba)](#contributors)
 
 > A curated list of awesome Imba frameworks, libraries, software and resources
 
-Imba is a programming language inspired by Ruby and Python and compiles to performant JavaScript.
+Imba is a programming language inspired by Ruby and Python and compiles to performant and readable JavaScript with build-in transpilers and webpack loader.
+
 
 ## Contents
 
 - [Resources](#resources)
 	- [Official Resources](#official-resources)
-	- [Core Tools](#core-tools)
 	- [Toolkits and Frameworks](#toolkits-and-frameworks)
 	- [Editor Plugins and IDEs](#editor-plugins-and-ides)
 	- [Guides and Tutorials](#guides-and-tutorials)
@@ -28,21 +27,17 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 - [Contribution](#contribution)
 - [Contributors](#contributors)
 
+
 ## Resources
 
 #### Official Resources
 
-- [Website](http://imba.io)
-- [Docs](http://imba.io/docs)
+- [Website](https://imba.io)
+- [Docs](https://imba.io/docs)
 - [Gitter](https://gitter.im/somebee/imba)
 - [GitHub Repo](https://github.com/imba/imba)
 - [GitHub Organization](https://github.com/imba)
 
-#### Core Tools
-
-- [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) - The imbapack utility is a convenient wrapper around webpack. When you use Imbapack you do not need to declare an imba-loader and resolveExtensions in your configs. It ships with Imba package.
-- [Imbac](https://github.com/imba/imba/blob/master/bin/imbac) - The imbac utility is for compiling your scripts to js. When working on client-side projects you should use [Imbapack](https://github.com/imba/imba/blob/master/bin/imbapack) instead. It also ships with imba package.
-- [Webpack Loader](https://github.com/imba/imba/blob/master/loader.js) - Pre-installed loader for Imba. You can install Imba locally and next you can config webpack to use that loader.
 
 #### Toolkits and Frameworks
 
@@ -54,24 +49,29 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
 
+
 #### Editor Plugins and IDEs
 
 - [Atom](http://github.com/somebee/language-imba) - Imba plugin for Atom.
 - [Sublime Text](http://github.com/somebee/sublime-imba) - Imba plugin for Sublime.
 - [VSCode](http://github.com/somebee/vscode-imba) - Imba plugin for VSCode.
 
+
 #### Guides and Tutorials
-- [Official Guide](http://imba.io/guides) - Official Imba guide.
+
+- [Official Guide](https://imba.io/guides) - Official Imba guide.
 - [Imba more depth Guide](https://imba.github.io/imba-guide/) - Imba more depth guide.
 - [Hello World Imba Tutorial](https://github.com/jiggneshhgohel/hello-world-imba-tutorial) - This is a detailed tutorial documenting the steps taken to build the "Hello World" app with Node.js, Imba and Webpack.
 - [Why is Imba so fast?](https://scrimba.com/p/pJkZsB/c6B9rAM) - Learn why Imba is fast, how it works and then play around with it.
 - [Quick introduction to Imba Router](https://scrimba.com/playlist/pMvYcg) - Learn how imba-router works in Imba.
 - [Creating a todo-list app in Imba](https://scrimba.com/p/pDzDSZ/cRvRMSB) - Learn how to create an app faster and easier with Imba.
 
+
 #### Articles
 
 - [An Intro to Imba: the JavaScript-compatible language for lightning fast DOM updates - freeCodeCamp](https://medium.freecodecamp.org/introduction-to-imba-the-alternative-to-javascript-e2aa1e3d1769)
 - [New JavaScript-based Web Language Challenges React - ADTMag](https://adtmag.com/articles/2016/01/14/imba-web-language.aspx)
+
 
 ## Built with Imba
 
@@ -81,12 +81,14 @@ processing of Imba files.
 - [Iceland Fish Auction Market](https://rsf.is) - A website for the iceland fish market.
 - [GitSpeak](https://gitspeak.com) - A project management tool for developers.
 
+
 #### Tools
 
 - [html2imba](https://github.com/konsumer/html2imba) - [view online](http://konsumer.js.org/html2imba/) - A tool to convert HTML to Imba tag source.
 - [JSON pretty printer](https://github.com/taw/imba-json-beautifier) - [view online](https://taw.github.io/imba-json-beautifier) - JSON prettier.
 - [Monoalphabetic Cipher Decoder](https://github.com/taw/imba-monoalphabetic) - [view online](https://taw.github.io/imba-monoalphabetic) - Decoder for monoalphabetic cipher.
 - [RegExp Explorer](https://github.com/taw/imba-regexp-explorer) - [view online](https://taw.github.io/imba-regexp-explorer) - Regex tool.
+
 
 #### Apps/Websites
 
@@ -114,6 +116,7 @@ Your contributions and suggestions are welcome anytime. Are you building great s
 
 Here are [instructions](./CONTRIBUTING.md). Please read the [Code of Conduct](.github/CODE_OF_CONDUCT.md) as well.
 
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -138,6 +141,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
