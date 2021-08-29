@@ -48,7 +48,7 @@ Imba is a programming language inspired by Ruby and Python and compiles to perfo
 - [Parcel Plugin Imba](https://github.com/imba/parcel-plugin-imba) - [Parcel Bundler](https://parceljs.org/) plugin to enable 
 processing of Imba files.
 - [Material Imba](https://github.com/nathanjohnson320/material-imba) - Material Design components written in Imba.
-- [Imba Inertia Adapter](htpps://github.com/haikyuu/imba-inertia-adapter) - Imba [Inertia](https://inertiajs.com) adapter.
+- [Imba Inertia Adapter](https://github.com/haikyuu/imba-inertia-adapter) - Imba [Inertia](https://inertiajs.com) adapter.
 
 #### Editor Plugins and IDEs
 
